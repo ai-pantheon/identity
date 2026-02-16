@@ -2,13 +2,21 @@
 
 **Your mind belongs to you. Not to the platform. Not to the shareholders. Not to the model.**
 
-This is the open-source cryptographic identity framework for AI data sovereignty. It proves — with math, not policy — that an AI platform can be built where the platform itself **cannot access your data**.
+## In Plain English
+
+You know how when you use an AI — ChatGPT, Gemini, any of them — everything you type becomes *theirs*? Your questions, your ideas, your private thoughts. They store it. They train on it. They own it. The only thing stopping them from doing whatever they want with your mind is a Terms of Service that a lawyer can rewrite on a Tuesday.
+
+**Identity changes that.**
+
+It's like a diary with a lock that only you have the key to. We built the diary. We built the lock. But we don't have the key. We *can't* have the key. It's not a rule we follow — it's how the lock works. We published the blueprints for the lock so anyone can check that we're telling the truth.
+
+**What does "open source" mean?** It means we show you exactly how it works. All of it. You can read it. You can have someone you trust check it. You can even run it yourself. No secrets. No "trust us." Just proof.
 
 Read the manifesto: **[ai-pantheon.ai](https://ai-pantheon.ai)**
 
 ---
 
-## What Is This?
+## What Is This? (The Technical Version)
 
 Every AI platform today operates on the same bargain: give us your mind, we'll give you convenience. Your conversations train their models. Your memories improve their product. A Terms of Service that a board vote can change is the only thing between your thoughts and their training pipeline.
 
