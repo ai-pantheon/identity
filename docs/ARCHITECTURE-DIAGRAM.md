@@ -1,11 +1,11 @@
-# You Own You — Architecture Diagram
+# Identity — Architecture Diagram
 
 ## The 7-Layer Proof Stack
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
 ║                                                                          ║
-║   YOU OWN YOU — The Proof Stack                                          ║
+║   IDENTITY — The Proof Stack                                          ║
 ║                                                                          ║
 ║   "This is not a privacy policy. This is a proof."                       ║
 ║                                                                          ║
@@ -160,10 +160,10 @@
 ## Repository Structure
 
 ```
-you-own-you/
+identity/
 │
 ├── README.md                              # Project overview + quick start
-├── MANIFESTO.md                           # "You Own You" manifesto
+├── MANIFESTO.md                           # "Identity" manifesto
 ├── ARCHITECTURE.md                        # Full proof stack explained
 ├── TOS-TEMPLATE.md                        # Reverse ToS template (adopt freely)
 ├── LICENSE                                # AGPL-3.0

@@ -1,4 +1,4 @@
-# Architecture — The "You Own You" Proof Stack
+# Architecture — The "Identity" Proof Stack
 
 ## How It Works (For Everyone)
 

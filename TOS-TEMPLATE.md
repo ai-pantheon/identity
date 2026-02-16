@@ -1,4 +1,4 @@
-# Reverse Terms of Service — "You Own You" Template
+# Reverse Terms of Service — "Identity" Template
 
 *Any AI platform can adopt this template. It is open source under AGPL-3.0.*
 

@@ -1,6 +1,6 @@
 # Security
 
-**You Own You** is a cryptographic framework for AI data sovereignty. This document is an honest assessment of what's built, what's hardened, and what still needs work. No marketing. Just facts.
+**Identity** is a cryptographic framework for AI data sovereignty. This document is an honest assessment of what's built, what's hardened, and what still needs work. No marketing. Just facts.
 
 ---
 
